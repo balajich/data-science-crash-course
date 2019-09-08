@@ -1,0 +1,75 @@
+Data Science Crash Course
+------------------------------------
+DAta -> information
+
+Data Collection or Data Prepartion
+Data Model
+Model Evalauationa and Maintence
+Visualization
+
+Tradionatllity --- Rules  -- written program
+
+190 > Tallest
+height> 190
+Inputs --> apply that rule -> out
+
+Machie Learning
+------------
+Data -> Rules (identfiy paatern)-
+
+inputs -> Rules  (Model)-> out
+
+##########################################3
+150,155,160,165,170
+
+95% percent of time .. which alogrith should I use
+Linear Regresstion , Random foresst
+
+Python --
+numpy,pandas, sklearn -- data libaries
+matplotlib -- visualation
+
+Python
+--------------
+python
+
+ipython -- Interative p
+
+IDE
+------------
+Spyder ----
+pycharm
+Jupyter ---
+
+Anconda python (python + IDES+Datascien libariers)
+X- indepenent variable
+y- depedent variable , predic
+
+
+#################################
+Passion --
+One programing language --- Python
+Statics  --- Refresjher ... elements
+Visualization tool --- Tabule
+
+75 ---- Spend time organizime
+
+#################
+y=mx+c
+x- indepent 130,190
+y = dependent
+X -- Dimension
+y- Measuer
+
+150,-150,155,160
+Outliers .. can be found using statical tests
+
+40,50,90,10,11,190,50,48 --- Standar deviations -- statiscal mesuare
+
+Split data
+
+ train , test  75:25
+ train data -- create model
+ test data --- validate the model
+ Over fit -- 100% data to train my mode ll - you will be bitten by overfit
+ Data imputation --- data scientist
