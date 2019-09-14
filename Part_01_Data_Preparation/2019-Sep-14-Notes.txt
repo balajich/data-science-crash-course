@@ -1,0 +1,77 @@
+Session -2
+-------
+Basic Life cycle of a Data Sciene Project
+
+Data Prepartion phase -- 70 to 80 effort goes here
+Statistics --
+Central Tendency -- mean median mode
+Skewness
+Distribution
+Startion , Variance , coeffient variance
+
+Data Prepartion
+-- Treating missing value --
+-- Numerical , Catlogerical
+
+Data Imputation -- Treating missing values
+mean, median, mode, some random number .. .which apt?
+
+######################
+
+statis
+-----
+Central Tendency
+Mean or Average
+
+Single value ---which describes the entrie data
+
+Maths -- 95 ... what is average mark in calls --- 98.5
+
+Mean .. where data is centered
+
+Problem .. it wont give you entire information
+Mean .. is impacted with out liers
+
+Startup .. they avege salary is  50,000
+What is the range
+10,000 to 90,0000
+10,000+90000/2 -- 50,000
+CEO- 90K
+Eng -10 k
+
+Range -- lower to uper bound
+
+#####################
+
+mean is also impacted by outlier
+if a dapoint is +3d or -3std ...
+
+Avge - 50K
+CEO Salary -- 90K
+10K
+Distribution
+Normal Distribution ---
+
+Mean is not always apt .. when we have outliers
+Median ----
+Median is not impacted by outlier
+
+Median is not impacted by outlier
+
+Mode --- Most occurirng .. most frequest
+
+1,2,3,4,4,4,5,6,7,150,150,150
+
+Mode -150
+There can be multiple modes in data set
+1,2,1,2
+Impacted by outliers and has multiple values
+
+Mode is for categorical varible ---  Color -- red , green , yelllo
+
+##################
+if a values is greater than or less than 3 standard deviatios -- you can call it is as outlier
+quartiles
+percentiles
+My data 55 marks in 10th 1970  -- 40  (mean)
+I got 90 marks in 1996 ( 95) -- mean
