@@ -12,4 +12,10 @@ dataset['salary'].median() # Median 50000
 from scipy import stats
 
 stats.mode(dataset['salary'])# Mode 60000
-plt.hist(dataset['salary'],bins=5)
+
+# visualization
+# Histogram of Salary
+dataset['salary'].plot(kind='hist', title='Histogram for Salary of negatively skewed data', color='c', bins=10)
+# using kde for density plot
+dataset['salary'].plot(kind='kde', title='Density plot for Salary of negatively skewed data', color='c')
+
